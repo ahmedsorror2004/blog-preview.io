@@ -13,4 +13,7 @@ i've just used basic tools
 
 [Frontend Mentor - Blog Card]([https://www.frontendmentor.io](https://www.frontendmentor.io/learning-paths/getting-started-on-frontend-mentor-XJhRWRREZd/challenge/65e6f48617e502f0b6ca3d00/start)) challenges help you improve your coding skills by building realistic projects.
 
+#View The Design
+[Blog Preview Card](https://ahmedsorror2004.github.io/blog-preview-card/)
+
 **Have fun building!** 🚀
